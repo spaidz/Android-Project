@@ -1,2 +1,2 @@
 # ToDo-List
-this contains all my android mobile dev projects
+this repo containsall the files to my todo list android project.
