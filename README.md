@@ -1,2 +1,2 @@
 # ToDo-List
-this repo containsall the files to my todo list android project.
+this is a to do list created by java on android studio consists of screen shots, source code and the apk file
